@@ -429,7 +429,7 @@ java -jar embrace-mind-care-system-1.0.0.jar
 
 ---
 
-## 專案亮點（面試可說明）
+## 專案亮點
 
 - 使用 **Java Swing + MySQL** 完成完整桌面式系統
 - 使用 **MVC + DAO Pattern** 進行分層
@@ -483,4 +483,4 @@ java -jar embrace-mind-care-system-1.0.0.jar
 
 ## 授權
 
-本專案僅供學習、作品展示與面試使用。
+本專案僅供學習、作品展示
