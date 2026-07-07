@@ -1,0 +1,9 @@
+本版修改重點：
+1. MainUI 改回系統第一個畫面，一般大眾不需要登入即可預約、查詢、取消。
+2. MainUI 功能列新增「管理員專區」按鈕。
+3. 點選「管理員專區」會開啟管理者介面，只有「醫師」與「心理師」兩個按鈕。
+4. 「醫師」按鈕會顯示所有角色含「醫師」的預約名單。
+5. 「心理師」按鈕會顯示所有角色含「心理師」的預約名單。
+6. 新增 controller/ManagerAreaDialog.java。
+7. 新增 controller/RoleAppointmentsPanel.java。
+8. 修改 controller/MainUI.java。
